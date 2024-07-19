@@ -20,7 +20,7 @@
 
 📫 How to reach me:
 - [musaddiquarajannavar@gmail.com]
-- [LinkedIn Profile]
+- [https://www.linkedin.com/in/musaddiqua-rajannavar-158954268]
 
 ## Technology and frameworks
 
@@ -33,7 +33,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
