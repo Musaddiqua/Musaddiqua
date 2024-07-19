@@ -19,4 +19,4 @@
 
 📫 How to reach me:
 - [musaddiquarajannavar@gmail.com]
-- []
+- [https://www.linkedin.com/in/musaddiqua-rajannavar-158954268]
