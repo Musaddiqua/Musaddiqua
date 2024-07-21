@@ -9,10 +9,6 @@
   <img align="center" alt="Girl Coding" width="200" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FnM2tyd2QxNnMwaThkbmYya2U3NDd0M3Uyajc4NTN3Z2hsdmhpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.webp" />
 </p>
 
-<p align="center">
-  <a src="assets/github-snake.svg" />
-</p>
-
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
 <p align="center">Currently learning - Data analytics and Machine Learning</p>
 
@@ -42,7 +38,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
+<p align="center">
+   <a>src="assets/github-snake.svg" </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
