@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="/mnt/data/Screenshot 2024-07-21 124938.png" alt="Custom GIF" width="200" height="auto" />
+  <img src="assets/github-snake.svg" />
 </p>
 
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
