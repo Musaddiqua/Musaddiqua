@@ -14,10 +14,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua" alt="musaddiqua" />
   </a> 
 </p>
-- ⚡ Fun fact **Most of my best ideas come to me at 3 AM!**
-- 🔭 I’m currently working on **Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms. MongoDB Exploration: Mastering advanced query operations to optimize database performance.**
+- ⚡ Fun fact *Most of my best ideas come to me at 3 AM!
 
-- 🌱 I’m currently learning **Data Analytics | Machine Learning | Python | Data Modeling | Data Visualization | Data Structures | AI Projects**
+- 🔭 I’m currently working on **Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms. MongoDB Exploration: Mastering advanced query operations to optimize database performance.
+
+- 🌱 I’m currently learning **Data Analytics | Machine Learning | Python | Data Modeling | Data Visualization | Data Structures | AI Projects
 
 - 📫 How to reach me **musaddiquarajannavar@gmail.com**
 
