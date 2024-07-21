@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Musaddiqua</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-<h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Data+analytics&font=Fira+Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
-  <img align="center" alt="Girl Coding" width="200" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img alt="Coding" width="300" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p>
 
+<h3 align="center">My interests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Data analytics&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
+</p>
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
 <p align="center">Currently learning - Data analytics and Machine Learning</p>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua" alt="musaddiqua" />
   </a> 
