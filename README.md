@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Musaddiqua</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about unraveling the mysteries of data and transforming insights into actionable strategies.</h3>
-
+<h3 align="center">Welcome to my GitHub profile!</h3>
+ <img alt="Coding" width="300" height="auto" src="assets/coding.gif"/>
+</p>
+<h3 align="center">My interests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Computer Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
+<p align="center">Currently working on - Private Projects</p>
+<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
+    <img align="center" src="assets/python.png" alt="python" height="65" width="65" />
+  </a>
+</p>
+</p>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiqua&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiqua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaddiqua" alt="musaddiqua" /></a> </p>
