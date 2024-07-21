@@ -10,7 +10,8 @@
 <p align="center">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiqua&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiqua" /> </p>
-
+ [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://ashlinleee.io)
+<marquee behavior="scroll" direction="left"><img src="https://fontmeme.com/permalink/240111/7dfdb0aab7d954904a6a2a8e71d0f00f.png" alt="pixel-fonts" border="0"></marquee>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaddiqua" alt="musaddiqua" /></a> </p>
 
 - 🔭 I’m currently working on **Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms. MongoDB Exploration: Mastering advanced query operations to optimize database performance.**
