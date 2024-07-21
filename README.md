@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-snake.svg" />
+  <a src="assets/github-snake.svg" />
 </p>
 
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
