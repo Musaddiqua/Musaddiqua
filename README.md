@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Data analytics&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
 <p align="center">Currently learning - Data analytics and Machine Learning</p>
-<h3 align="center">Most Wanted Language</h3>
-<p align="center">
-    <img align="center" src="assets/python.png" alt="python" height="65" width="65" />
-  </a>
-</p>
-</p>
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
