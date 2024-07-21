@@ -4,9 +4,9 @@
 <h3 align="center">My interests</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Data+analytics&font=Fira+Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
-  <img align="center" alt="Girl Coding" width="200" height="auto" src="![image](https://github.com/user-attachments/assets/25e04f65-0971-4a55-b904-0c16c695607c)
-/>
+  <img align="center" alt="Girl Coding" width="200" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </p>
+
 <p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
 <p align="center">Currently learning - Data analytics and Machine Learning</p>
 
