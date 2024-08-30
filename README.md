@@ -9,8 +9,6 @@
   <img align="center" alt="Girl Coding" width="200" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FnM2tyd2QxNnMwaThkbmYya2U3NDd0M3Uyajc4NTN3Z2hsdmhpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.webp" />
 </p>
 
-
-<p align="center">Currently working on - Skin Cancer Detection: Tackling a Kaggle competition with cutting-edge image-based algorithms</p>
 <p align="center">Currently learning - Data analytics and Machine Learning</p>
 
 <p align="center">
