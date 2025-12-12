@@ -10,11 +10,7 @@
   <img align="center" alt="Girl Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FnM2tyd2QxNnMwaThkbmYya2U3NDd0M3Uyajc4NTN3Z2hsdmhpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.webp" />
 </p>
 
-<p align="center"><strong>Currently learning:</strong> Data Analytics | Machine Learning</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+<p align="center"><strong>Currently learning:</strong> Deep learning Models </p>
 
 
 ---
