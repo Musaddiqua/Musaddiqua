@@ -13,10 +13,9 @@
 <p align="center"><strong>Currently learning:</strong> Data Analytics | Machine Learning</p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua&theme=onedark&no-frame=true" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
