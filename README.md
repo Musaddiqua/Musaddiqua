@@ -13,21 +13,22 @@
 <p align="center"><strong>Currently learning:</strong> Data Analytics | Machine Learning</p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua" alt="musaddiqua" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=musaddiqua&theme=onedark&no-frame=true" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun fact
-Most of my best ideas come to me at **3 AM!**
+I train models the same way I train myself — lots of epochs 
+
 
 ### 🌱 Currently Learning
-**Data Analytics | Machine Learning | Python | Data Modeling | Data Visualization | Data Structures | AI Projects**
+**Deep Learning | Machine Learning | CNNs | Transfer Learning | Computer Vision (OpenCV, YOLO, ByteTrack) | NLP | Model Deployment & Optimization | Data Preprocessing | Data Engineering | ETL | Data Modeling | Model Evaluation & Tuning****
 
 ### 📄 My Resume
-👉 [Click here to view my resume](YOUR_RESUME_LINK_HERE)
+👉 [Click here to view my resume](https://drive.google.com/file/d/1KUhXCyg40L33mBQH2HEa2wH-C047AhZO/view?usp=drivesdk)
 
 ### 📫 How to reach me
 **musaddiquarajannavar@gmail.com**
