@@ -11,8 +11,6 @@
 </p>
 
 <p align="center"><strong>Currently learning:</strong> Deep learning Models </p>
-
-
 ---
 
 ### ⚡ Fun fact
