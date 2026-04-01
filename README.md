@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Data+analytics&font=Fira+Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python;Artificial+Intelligence;REST+APIs;System+Operation;API+Integration&font=Fira+Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@ I train models the same way I train myself — lots of epochs
 
 
 ### 🌱 Currently Learning
-**Deep Learning | Machine Learning | CNNs | Transfer Learning | Computer Vision (OpenCV, YOLO, ByteTrack) | NLP | Model Deployment & Optimization | Data Preprocessing | Data Engineering | ETL | Data Modeling | Model Evaluation & Tuning****
+**Backend Development | Python | REST APIs | Databases (SQL & NoSQL) | System Design Basics | API Development | Data Modeling | Performance Optimization | Debugging & Testing | Data Structures & Algorithms | Git & Version Control**
 
 ### 📄 My Resume
-👉 [Click here to view my resume](https://drive.google.com/file/d/1KUhXCyg40L33mBQH2HEa2wH-C047AhZO/view?usp=drivesdk)
+👉 [Click here to view my resume](https://drive.google.com/file/d/1dY95bHxt9x3ZAYRnpA1UF4zuhwett4Ky/view?usp=drivesdk)
 
 ### 📫 How to reach me
 **musaddiquarajannavar@gmail.com**
