@@ -13,7 +13,7 @@
 ---
 
 ### ⚡ Fun fact
-I train models the same way I train myself — lots of epochs 
+I train models the same way I train myself — lots of epochs - with proper accuracy 
 
 
 ### 🌱 Currently Learning
